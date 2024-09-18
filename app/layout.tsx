@@ -37,6 +37,7 @@ export default function RootLayout({
         <p>deneme</p>
         <p>caner</p>
         {children}
+        <p>noluyor</p>
       </body>
     </html>
   );
