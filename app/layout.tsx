@@ -35,6 +35,7 @@ export default function RootLayout({
         <p>test3</p>
         <p>test4</p>
         <p>deneme</p>
+        <p>caner</p>
         {children}
       </body>
     </html>
