@@ -32,6 +32,7 @@ export default function RootLayout({
         <p>bu da 3 olacak</p>
         <p>ulan bu da 4.</p>
         <p>simdi degisiklik yaptim</p>
+        <p>test3</p>
         {children}
       </body>
     </html>
