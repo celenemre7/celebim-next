@@ -31,6 +31,7 @@ export default function RootLayout({
         <h1>emre</h1>
         <p>bu da 3 olacak</p>
         <p>ulan bu da 4.</p>
+        <p>simdi degisiklik yaptim</p>
         {children}
       </body>
     </html>
